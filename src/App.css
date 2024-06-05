@@ -1,0 +1,8 @@
+body.dark-mode {
+    background-color: rgb(42, 38, 38);
+    color: white;
+  }
+  .dark-textarea {
+    color: black;
+  }
+  
